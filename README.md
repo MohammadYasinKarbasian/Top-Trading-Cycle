@@ -29,7 +29,7 @@ To use this Python implementation of the Top Trading Cycle Algorithm, follow the
 2. Run the algorithm by executing the main Python script:
 
    ```bash
-   python top trading cycle.py
+   python 'top trading cycle.py'
    
 3. Follow the prompts to provide the input data or specify the test file you want to use for allocation.
 
