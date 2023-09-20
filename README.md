@@ -23,7 +23,7 @@ To use this Python implementation of the Top Trading Cycle Algorithm, follow the
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/top-trading-cycle.git
+   git clone https://github.com/MohammadYasinKarbasian/Top-Trading-Cycle.git
 
 
 2. Run the algorithm by executing the main Python script:
