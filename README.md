@@ -14,7 +14,7 @@ This repository contains a Python implementation of the Top Trading Cycle Algori
 
 ## Introduction
 
-The Top Trading Cycle Algorithm is a mechanism designed to find a stable allocation of resources in a way that there are no incentives for agents to trade and improve their own allocation. It is a widely used algorithm in various allocation problems, including school assignments, house allocation problems, and more.
+The Top Trading Cycle Algorithm is a mechanism designed to find a stable allocation of resources in a way that there are no incentives for agents to trade and improve their allocation. It is a widely used algorithm in various allocation problems, including school assignments, house allocation problems, and more.
 
 ## Usage
 
@@ -49,7 +49,7 @@ The Top Trading Cycle Algorithm works as follows:
 5. The algorithm terminates when a stable allocation is reached, where no agent has an incentive to trade and improve their allocation.
 
 ## Test Files
-This repository includes four test.txt files, which contain sample input data for testing the Top Trading Cycle Algorithm. You can use these files to validate the correctness and performance of the implementation. Each test file contains the preferences of agents.
+This repository includes four test.txt files containing sample input data for testing the Top Trading Cycle Algorithm. You can use these files to validate the correctness and performance of the implementation. Each test file contains the preferences of agents.
 
 * Test1.txt
 * Test2.txt
